@@ -1,0 +1,8 @@
+/*Titulo da pagina*/
+h1{
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color:black;
+    text-transform: uppercase;
+}

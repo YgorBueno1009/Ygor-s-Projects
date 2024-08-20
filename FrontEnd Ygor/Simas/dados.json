@@ -1,0 +1,48 @@
+{
+    "1": {
+        "name": "Fiat Argo",
+        "year": "2020",
+        "price": "R$ 80.000,00",
+        "brand": "Fiat",
+        "image": "https://via.placeholder.com/300x200",
+        "km": "25.000"
+    },
+
+    "2": {
+        "name": "Chevrolet Onix",
+        "year": "2010",
+        "price": "R$ 15.000,00",
+        "brand": "Chevrolet",
+        "image": "https://via.placeholder.com/300x200",
+        "km": "652.000"
+    },
+
+    "3":{
+        "name": "Honda Civic",
+        "year": "2014",
+        "price": "R$ 70.000,00",
+        "brand": "Honda",
+        "image": "https://via.placeholder.com/300x200",
+        "km": "180.000"
+    },
+
+    "4":{
+        "name": "Toyota Corolla",
+        "year": "2014",
+        "price": "R$ 80.000,00",
+        "brand": "Toyota",
+        "image": "https://via.placeholder.com/300x200",
+        "km": "220.000"
+    },
+
+    "5":{
+        "name": "Reanult Logan",
+        "year": "2016",
+        "price": "R$ 45.000,00",
+        "brand": "Renault",
+        "image": "https://via.placeholder.com/300x200",
+        "km": "110.000"
+    }
+
+}
+
